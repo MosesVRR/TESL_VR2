@@ -26,6 +26,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/BNG Framework/Scenes/TESL_VR/DoorMenuScene.unity
     guid: 6605dbb1e37de9b4ab21ee0df749d36d
+  - enabled: 1
+    path: Assets/BNG Framework/Scenes/TESL_VR/IsolationStoryboardScene.unity
+    guid: ed6c190bf44eb594ea47407b7bdbe9fe
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 29c4ab0742b3b3e49bcf0258c785b60e,
       type: 2}
